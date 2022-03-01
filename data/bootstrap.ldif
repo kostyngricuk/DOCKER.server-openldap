@@ -1,0 +1,13 @@
+dn: uid=username,cn=developer,ou=unit,dc=openldap,dc=com
+cn: Firstname Lastname
+gidnumber: 500
+givenname: Firstname
+homedirectory: /home/users/username
+loginshell: /bin/bash
+objectclass: inetOrgPerson
+objectclass: posixAccount
+objectclass: top
+sn: Lastname
+uid: username
+uidnumber: 1000
+userpassword: {MD5}gnzLDuqKcGxMNKFokfhOew==
